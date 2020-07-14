@@ -1,4 +1,4 @@
 # BottomNavigationView-with-Fragments
-![Image](red.png)
-![Image](green.png)
-![Image](blue.png)
+![Image](red.jpg)
+![Image](green.jpg)
+![Image](blue.jpg)
